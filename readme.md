@@ -21,9 +21,10 @@ python -m venv .venv
 .\.venv\Scripts\Activate
 ```
 
-### 2️⃣ 필수 패키지 설치
+### 2️⃣ 필수 패키지 설치 
 
-pip install numpy jupyter
+requirements.txt 참고
+numpy==2.3.4 
 
 ## 🧩 주요 학습 내용
 
