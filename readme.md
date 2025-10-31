@@ -19,6 +19,7 @@
 ```bash
 python -m venv .venv
 .\.venv\Scripts\Activate
+```
 
 ### 2️⃣ 필수 패키지 설치
 
