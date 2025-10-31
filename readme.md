@@ -26,8 +26,9 @@ cd .\.venv\Scripts\Activate
 
 ### 2️⃣ 필수 패키지 설치 
 
-requirements.txt 참고<br>
-numpy==2.3.4 
+```bash
+pip install -r requirements.txt
+```
 
 ## 🧩 주요 학습 내용
 
