@@ -18,12 +18,15 @@
 ### 1️⃣ 가상환경 생성 (선택)
 ```bash
 python -m venv .venv
-.\.venv\Scripts\Activate
+```
+
+```bash
+cd .\.venv\Scripts\Activate
 ```
 
 ### 2️⃣ 필수 패키지 설치 
 
-requirements.txt 참고
+requirements.txt 참고<br>
 numpy==2.3.4 
 
 ## 🧩 주요 학습 내용
